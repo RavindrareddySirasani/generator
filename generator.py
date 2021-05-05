@@ -1,3 +1,10 @@
+
+
+
+
+#this is iteratior program
+
+
 iter=iter([1,2,3,4])
 '''print(iter)
 print(next(iter))
