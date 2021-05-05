@@ -1,5 +1,5 @@
 
-
+print('hello world')
 
 
 #this is iteratior program
